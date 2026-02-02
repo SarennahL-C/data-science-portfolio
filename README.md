@@ -23,80 +23,93 @@ If you are short on time, I recommend starting with:
 
 - **US Arrests — PCA and Unsupervised Clustering**  
   A strong example of analytical reasoning, interpretation, and unsupervised learning.
+  🔗 https://github.com/SarennahL-C/pf-USarrests
 - **Titanic — EDA, Decision Tree, and Random Forest Models**  
   Demonstrates progression from exploratory analysis to increasingly sophisticated supervised models.
+  🔗 https://github.com/SarennahL-C/pf-titanic
 - **Telco Customer Churn — Supervised Machine Learning**  
   A realistic end-to-end modelling workflow with attention to business context and evaluation metrics.
+  🔗 https://github.com/SarennahL-C/pf-telco-churn
 
 ---
 
-## Portfolio structure
+## Project Index
 
-Projects are grouped broadly by analytical focus. Many span more than one category.
+Each project links to a standalone repository with a fully documented README, reproducible code, and (where available) reviewer feedback.
 
----
+### Exploratory & Statistical Analysis
 
-## Exploratory & Statistical Analysis
+**Automobiles — Exploratory Data Analysis**
+Environmental and cost-focused executive fleet analysis using structured EDA and visual storytelling.
+🔗 https://github.com/SarennahL-C/pf-automobiles
 
-Projects focused on data understanding, structure, and interpretation.
+**Diabetes — Linear Regression Analysis**
+Regression modelling with careful feature evaluation, including analysis of sex-specific effects.
+🔗 https://github.com/SarennahL-C/pf-diabetes
 
-- **Automobiles — Exploratory Data Analysis**  
-  Executive fleet analysis combining data cleaning, visualisation, and insight generation.
-- **Diabetes Regression Analysis**  
-  Linear regression with careful consideration of feature relevance and sex-specific effects.
-- **Ames Housing — Linear Regression Modelling**  
-  Regression diagnostics, model revision based on feedback, and reusable code design.
-- **US Arrests — PCA and Unsupervised Clustering**  
-  Dimensionality reduction and clustering with emphasis on interpretability and limitations.
+**Ames Housing — Linear Regression Modelling**
+Predictive modelling with diagnostics, revision based on feedback, and reusable analytical code.
+🔗 https://github.com/SarennahL-C/pf-housing
 
----
+**US Arrests — PCA and Unsupervised Clustering**
+Dimensionality reduction and clustering with emphasis on interpretability and analytical restraint.
+🔗 https://github.com/SarennahL-C/pf-USarrests
 
-## Supervised Machine Learning
+### Supervised Machine Learning
 
-Projects applying classification and regression models with attention to evaluation and overfitting.
+**Titanic — Survival Modelling (EDA, Decision Tree, Random Forest)**
+A three-stage analytical progression from exploration to ensemble modelling.
+🔗 https://github.com/SarennahL-C/pf-titanic
 
-- **Titanic — Survival Modelling**  
-  EDA followed by decision tree and random forest classifiers.
-- **Telco Customer Churn**  
-  Logistic regression and random forest models with class imbalance handling.
-- **Iris — Logistic Regression**  
-  Binary and multiclass classification with manual metric calculation.
-- **Fashion MNIST — Neural Network Classification**  
-  PyTorch MLP implementation with confusion matrix analysis.
+**Telco Customer Churn — Classification Models**
+End-to-end churn prediction with logistic regression and random forest models.
+🔗 https://github.com/SarennahL-C/pf-telco-churn
 
----
+**Iris — Logistic Regression and Classification Metrics**
+Binary and multiclass classification with manual metric validation.
+🔗 https://github.com/SarennahL-C/pf-iris
 
-## Unsupervised Learning
+**Fashion MNIST — Neural Network Classification (PyTorch)**
+Multilayer perceptron implementation with confusion matrix analysis.
+🔗 https://github.com/SarennahL-C/pf-fashion-mnist
 
-Projects exploring structure without labelled outcomes.
+### Unsupervised Learning
 
-- **US Arrests — PCA and Clustering**  
-- **Iris — PCA and Unsupervised Clustering**  
-- **Country Development Classification — K-Means Clustering**  
+**US Arrests — PCA and Clustering**
+Principal component analysis and clustering interpretation.
+🔗 https://github.com/SarennahL-C/pf-USarrests
 
-These projects emphasise interpretation, validation of assumptions, and understanding what unsupervised methods can — and cannot — reveal.
+**Iris — PCA and Unsupervised Clustering**
+Dimensionality reduction and clustering applied to biological data.
+🔗 https://github.com/SarennahL-C/pf-iris
 
----
+**Country Development Classification — K-Means Clustering**
+Grouping countries using socio-economic and health indicators.
+🔗 https://github.com/SarennahL-C/pf-country-clustering
 
-## Natural Language Processing (NLP)
+### Natural Language Processing (NLP)
 
-Text-based projects applying both classical and neural NLP techniques.
+**Shakespeare Text Generation — Recurrent Neural Network**
+Character-level RNN modelling for sequential text generation.
+🔗 https://github.com/SarennahL-C/pf-shakespeare
 
-- **Shakespeare Text Generation — RNN**  
-  Character-level text generation and discussion of architectural limitations.
-- **Slogan Generation and Industry Classification**  
-  Neural networks for text generation and classification, with modular design.
-- **Movie Recommendation System — Semantic Similarity**  
-  Content-based recommendation using vector similarity.
-- **Amazon Product Reviews — Sentiment Analysis**  
-  Polarity-based sentiment analysis and theme identification at scale.
+**Slogan Generation and Industry Classification**
+Neural network–based text generation and classification with modular design.
+🔗 https://github.com/SarennahL-C/pf-slogan-nlp
 
----
+**Movie Recommendation System — Semantic Similarity**
+Content-based recommendation using vector similarity.
+🔗 https://github.com/SarennahL-C/pf-movie-recommendations
 
-## Databases & SQL
+**Amazon Product Reviews — Sentiment Analysis**
+Large-scale sentiment classification and theme identification.
+🔗 https://github.com/SarennahL-C/pf-amazon-sentiment
 
-- **Ebookstore — SQL Inventory System**  
-  A menu-driven Python application using SQLite, demonstrating practical database design and query logic beyond isolated SQL statements.
+### Databases & SQL
+
+**Ebookstore — SQL Inventory System**
+Menu-driven Python application integrating SQLite for real-world data workflows.
+🔗 https://github.com/SarennahL-C/pf-ebookstore
 
 ---
 
