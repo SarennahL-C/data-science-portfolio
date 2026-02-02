@@ -19,17 +19,18 @@ Each project lives in its own repository and includes a **fully documented READM
 
 Some projects also include **reviewer feedback**, where available, to provide external perspective on code quality, structure, and interpretation.
 
-If you are short on time, I recommend starting with:
+### If you’re short on time
 
-- **US Arrests — PCA and Unsupervised Clustering**  
-  A strong example of analytical reasoning, interpretation, and unsupervised learning.
-  🔗 https://github.com/SarennahL-C/pf-USarrests
-- **Titanic — EDA, Decision Tree, and Random Forest Models**  
-  Demonstrates progression from exploratory analysis to increasingly sophisticated supervised models.
-  🔗 https://github.com/SarennahL-C/pf-titanic
-- **Telco Customer Churn — Supervised Machine Learning**  
-  A realistic end-to-end modelling workflow with attention to business context and evaluation metrics.
-  🔗 https://github.com/SarennahL-C/pf-telco-churn
+The following projects provide a representative overview of my analytical approach and technical range:
+
+- **[US Arrests — PCA and Unsupervised Clustering](https://github.com/SarennahL-C/pf-USarrests)**  
+  A strong example of analytical judgement, interpretability, and disciplined use of unsupervised methods.
+
+- **[Titanic — Survival Modelling](https://github.com/SarennahL-C/pf-titanic)**  
+  Demonstrates progression from exploratory analysis to decision tree and random forest models.
+
+- **[Telco Customer Churn — Classification Models](https://github.com/SarennahL-C/pf-telco-churn)**  
+  An end-to-end supervised learning workflow grounded in realistic business context and evaluation metrics.
 
 ---
 
@@ -37,79 +38,69 @@ If you are short on time, I recommend starting with:
 
 Each project links to a standalone repository with a fully documented README, reproducible code, and (where available) reviewer feedback.
 
+---
+
 ### Exploratory & Statistical Analysis
 
-**Automobiles — Exploratory Data Analysis**
-Environmental and cost-focused executive fleet analysis using structured EDA and visual storytelling.
-🔗 https://github.com/SarennahL-C/pf-automobiles
+- **[Automobiles — Exploratory Data Analysis](https://github.com/SarennahL-C/pf-automobiles)**  
+  Environmental and cost-focused executive fleet analysis using structured EDA and visual storytelling.
 
-**Diabetes — Linear Regression Analysis**
-Regression modelling with careful feature evaluation, including analysis of sex-specific effects.
-🔗 https://github.com/SarennahL-C/pf-diabetes
+- **[Diabetes — Linear Regression Analysis](https://github.com/SarennahL-C/pf-diabetes)**  
+  Regression modelling with careful feature evaluation, including analysis of sex-specific effects.
 
-**Ames Housing — Linear Regression Modelling**
-Predictive modelling with diagnostics, revision based on feedback, and reusable analytical code.
-🔗 https://github.com/SarennahL-C/pf-housing
+- **[Ames Housing — Linear Regression Modelling](https://github.com/SarennahL-C/pf-housing)**  
+  Predictive modelling with diagnostics, revision based on feedback, and reusable analytical code.
 
-**US Arrests — PCA and Unsupervised Clustering**
-Dimensionality reduction and clustering with emphasis on interpretability and analytical restraint.
-🔗 https://github.com/SarennahL-C/pf-USarrests
+- **[US Arrests — PCA and Unsupervised Clustering](https://github.com/SarennahL-C/pf-USarrests)**  
+  Dimensionality reduction and clustering with emphasis on interpretability and analytical restraint.
+
+---
 
 ### Supervised Machine Learning
 
-**Titanic — Survival Modelling (EDA, Decision Tree, Random Forest)**
-A three-stage analytical progression from exploration to ensemble modelling.
-🔗 https://github.com/SarennahL-C/pf-titanic
+- **[Titanic — Survival Modelling](https://github.com/SarennahL-C/pf-titanic)**  
+  Three-stage progression from exploratory analysis to decision tree and random forest models.
 
-**Telco Customer Churn — Classification Models**
-End-to-end churn prediction with logistic regression and random forest models.
-🔗 https://github.com/SarennahL-C/pf-telco-churn
+- **[Telco Customer Churn — Classification Models](https://github.com/SarennahL-C/pf-telco-churn)**  
+  End-to-end churn prediction with logistic regression and random forest classifiers.
 
-**Iris — Logistic Regression and Classification Metrics**
-Binary and multiclass classification with manual metric validation.
-🔗 https://github.com/SarennahL-C/pf-iris
+- **[Iris — Classification and Evaluation](https://github.com/SarennahL-C/pf-iris)**  
+  Logistic regression with manual metric validation and multiclass evaluation.
 
-**Fashion MNIST — Neural Network Classification (PyTorch)**
-Multilayer perceptron implementation with confusion matrix analysis.
-🔗 https://github.com/SarennahL-C/pf-fashion-mnist
+- **[Fashion MNIST — Neural Network Classification](https://github.com/SarennahL-C/pf-fashion-mnist)**  
+  PyTorch MLP implementation with confusion matrix analysis.
+
+---
 
 ### Unsupervised Learning
 
-**US Arrests — PCA and Clustering**
-Principal component analysis and clustering interpretation.
-🔗 https://github.com/SarennahL-C/pf-USarrests
+- **[Country Development Classification — K-Means Clustering](https://github.com/SarennahL-C/pf-country-clustering)**  
+  Grouping countries using socio-economic and health indicators.
 
-**Iris — PCA and Unsupervised Clustering**
-Dimensionality reduction and clustering applied to biological data.
-🔗 https://github.com/SarennahL-C/pf-iris
+*(Additional unsupervised techniques are also explored within the US Arrests and Iris projects.)*
 
-**Country Development Classification — K-Means Clustering**
-Grouping countries using socio-economic and health indicators.
-🔗 https://github.com/SarennahL-C/pf-country-clustering
+---
 
 ### Natural Language Processing (NLP)
 
-**Shakespeare Text Generation — Recurrent Neural Network**
-Character-level RNN modelling for sequential text generation.
-🔗 https://github.com/SarennahL-C/pf-shakespeare
+- **[Shakespeare Text Generation — RNN](https://github.com/SarennahL-C/pf-shakespeare)**  
+  Character-level recurrent neural network for text generation.
 
-**Slogan Generation and Industry Classification**
-Neural network–based text generation and classification with modular design.
-🔗 https://github.com/SarennahL-C/pf-slogan-nlp
+- **[Slogan Generation and Industry Classification](https://github.com/SarennahL-C/pf-slogan-nlp)**  
+  Neural network–based text generation and classification with modular design.
 
-**Movie Recommendation System — Semantic Similarity**
-Content-based recommendation using vector similarity.
-🔗 https://github.com/SarennahL-C/pf-movie-recommendations
+- **[Movie Recommendation System — Semantic Similarity](https://github.com/SarennahL-C/pf-movie-recommendations)**  
+  Content-based recommendation using vector similarity.
 
-**Amazon Product Reviews — Sentiment Analysis**
-Large-scale sentiment classification and theme identification.
-🔗 https://github.com/SarennahL-C/pf-amazon-sentiment
+- **[Amazon Product Reviews — Sentiment Analysis](https://github.com/SarennahL-C/pf-amazon-sentiment)**  
+  Large-scale sentiment classification and theme identification.
+
+---
 
 ### Databases & SQL
 
-**Ebookstore — SQL Inventory System**
-Menu-driven Python application integrating SQLite for real-world data workflows.
-🔗 https://github.com/SarennahL-C/pf-ebookstore
+- **[Ebookstore — SQL Inventory System](https://github.com/SarennahL-C/pf-ebookstore)**  
+  Menu-driven Python application integrating SQLite for real-world data workflows.
 
 ---
 
