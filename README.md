@@ -6,6 +6,33 @@ The projects collected here emphasise **analytical judgement, careful documentat
 
 Together, these projects demonstrate how I approach real analytical problems — thoughtfully, transparently, and with an awareness of how technical outputs are ultimately used by people and organisations.
 
+## ⭐ Featured Projects
+
+The following projects best represent my current analytical approach and technical range:
+
+- **[US Arrests — PCA and Unsupervised Clustering](https://github.com/SarennahL-C/pf-USarrests)**  
+  An example of disciplined analytical reasoning, interpretability, and thoughtful application of unsupervised learning.
+
+- **[Titanic — Survival Modelling](https://github.com/SarennahL-C/pf-titanic)**  
+  A three-stage progression from exploratory data analysis to decision tree and random forest models.
+
+- **[Telco Customer Churn — Classification Models](https://github.com/SarennahL-C/pf-telco-churn)**  
+  An end-to-end supervised learning workflow grounded in realistic business context and evaluation metrics.
+
+## If you’re interested in…
+
+- **Business-facing analysis and decision-making**  
+  Start with **[Telco Customer Churn — Classification Models](https://github.com/SarennahL-C/pf-telco-churn)**, which combines exploratory analysis, supervised modelling, and evaluation grounded in real business context.
+
+- **Supervised machine learning fundamentals**  
+  See **[Titanic — Survival Modelling](https://github.com/SarennahL-C/pf-titanic)** for a progression from exploratory analysis to decision tree and random forest classifiers.
+
+- **Unsupervised learning and interpretability**  
+  Explore **[US Arrests — PCA and Unsupervised Clustering](https://github.com/SarennahL-C/pf-USarrests)** for dimensionality reduction, clustering, and careful interpretation of results.
+
+- **SQL and database-driven workflows**  
+  Visit **[Ebookstore — SQL Inventory System](https://github.com/SarennahL-C/pf-ebookstore)** for a practical example of relational database design integrated with Python.
+
 ---
 
 ## How to navigate this portfolio
@@ -18,19 +45,6 @@ Each project lives in its own repository and includes a **fully documented READM
 - tools and techniques used  
 
 Some projects also include **reviewer feedback**, where available, to provide external perspective on code quality, structure, and interpretation.
-
-### If you’re short on time
-
-The following projects provide a representative overview of my analytical approach and technical range:
-
-- **[US Arrests — PCA and Unsupervised Clustering](https://github.com/SarennahL-C/pf-USarrests)**  
-  A strong example of analytical judgement, interpretability, and disciplined use of unsupervised methods.
-
-- **[Titanic — Survival Modelling](https://github.com/SarennahL-C/pf-titanic)**  
-  Demonstrates progression from exploratory analysis to decision tree and random forest models.
-
-- **[Telco Customer Churn — Classification Models](https://github.com/SarennahL-C/pf-telco-churn)**  
-  An end-to-end supervised learning workflow grounded in realistic business context and evaluation metrics.
 
 ---
 
