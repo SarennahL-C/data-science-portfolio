@@ -13,8 +13,8 @@ The following projects best represent my current analytical approach and technic
 - **[US Arrests — PCA and Unsupervised Clustering](https://github.com/SarennahL-C/pf-USarrests)**  
   An example of disciplined analytical reasoning, interpretability, and thoughtful application of unsupervised learning.
 
-- **[Titanic — Survival Modelling](https://github.com/SarennahL-C/pf-titanic)**  
-  A three-stage progression from exploratory data analysis to decision tree and random forest models.
+- **[Automobiles — Exploratory Data Analysis](https://github.com/SarennahL-C/pf-automobiles)**  
+  Environmental and cost-focused executive fleet analysis using structured EDA and visual storytelling.
 
 - **[Telco Customer Churn — Classification Models](https://github.com/SarennahL-C/pf-telco-churn)**  
   An end-to-end supervised learning workflow grounded in realistic business context and evaluation metrics.
