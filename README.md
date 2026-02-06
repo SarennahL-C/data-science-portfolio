@@ -16,7 +16,7 @@ The following projects best represent my current analytical approach and technic
 - **[Automobiles — Exploratory Data Analysis](https://github.com/SarennahL-C/pf-automobiles)**  
   Environmental and cost-focused executive fleet analysis using structured EDA and visual storytelling.
 
-- **[Telco Customer Churn — Classification Models](https://github.com/SarennahL-C/pf-telco-churn)**  
+- **[Telco Customer Churn — Classification Models](https://github.com/SarennahL-C/pf-customer-churn)**  
   An end-to-end supervised learning workflow grounded in realistic business context and evaluation metrics.
 
 ## If you’re interested in…
