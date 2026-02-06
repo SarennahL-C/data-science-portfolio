@@ -22,7 +22,7 @@ The following projects best represent my current analytical approach and technic
 ## If you’re interested in…
 
 - **Business-facing analysis and decision-making**  
-  Start with **[Telco Customer Churn — Classification Models](https://github.com/SarennahL-C/pf-telco-churn)**, which combines exploratory analysis, supervised modelling, and evaluation grounded in real business context.
+  Start with **[Telco Customer Churn — Classification Models](https://github.com/SarennahL-C/pf-customer-churn)**, which combines exploratory analysis, supervised modelling, and evaluation grounded in real business context.
 
 - **Supervised machine learning fundamentals**  
   See **[Titanic — Survival Modelling](https://github.com/SarennahL-C/pf-titanic)** for a progression from exploratory analysis to decision tree and random forest classifiers.
@@ -75,20 +75,20 @@ Each project links to a standalone repository with a fully documented README, re
 - **[Titanic — Survival Modelling](https://github.com/SarennahL-C/pf-titanic)**  
   Three-stage progression from exploratory analysis to decision tree and random forest models.
 
-- **[Telco Customer Churn — Classification Models](https://github.com/SarennahL-C/pf-telco-churn)**  
+- **[Telco Customer Churn — Classification Models](https://github.com/SarennahL-C/pf-customer-churn)**  
   End-to-end churn prediction with logistic regression and random forest classifiers.
 
 - **[Iris — Classification and Evaluation](https://github.com/SarennahL-C/pf-iris)**  
   Logistic regression with manual metric validation and multiclass evaluation.
 
-- **[Fashion MNIST — Neural Network Classification](https://github.com/SarennahL-C/pf-fashion-mnist)**  
+- **[Fashion MNIST — Neural Network Classification](https://github.com/SarennahL-C/pf-fashion-neural-net)**  
   PyTorch MLP implementation with confusion matrix analysis.
 
 ---
 
 ### Unsupervised Learning
 
-- **[Country Development Classification — K-Means Clustering](https://github.com/SarennahL-C/pf-country-clustering)**  
+- **[Country Development Classification — K-Means Clustering](https://github.com/SarennahL-C/pf-countries)**  
   Grouping countries using socio-economic and health indicators.
 
 *(Additional unsupervised techniques are also explored within the US Arrests and Iris projects.)*
@@ -100,13 +100,13 @@ Each project links to a standalone repository with a fully documented README, re
 - **[Shakespeare Text Generation — RNN](https://github.com/SarennahL-C/pf-shakespeare)**  
   Character-level recurrent neural network for text generation.
 
-- **[Slogan Generation and Industry Classification](https://github.com/SarennahL-C/pf-slogan-nlp)**  
+- **[Slogan Generation and Industry Classification](https://github.com/SarennahL-C/pf-slogan)**  
   Neural network–based text generation and classification with modular design.
 
 - **[Movie Recommendation System — Semantic Similarity](https://github.com/SarennahL-C/pf-movie-recommendations)**  
   Content-based recommendation using vector similarity.
 
-- **[Amazon Product Reviews — Sentiment Analysis](https://github.com/SarennahL-C/pf-amazon-sentiment)**  
+- **[Amazon Product Reviews — Sentiment Analysis](https://github.com/SarennahL-C/pf-review-sentiment)**  
   Large-scale sentiment classification and theme identification.
 
 ---
