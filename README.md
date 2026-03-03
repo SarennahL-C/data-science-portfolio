@@ -1,4 +1,4 @@
-# Data Science Portfolio — Applied Analysis, Machine Learning, and Interpretation
+# Data Science Portfolio — Analytical Foundations and Applied Machine Learning
 
 This repository provides a curated overview of my data science portfolio, developed as part of a deliberate transition into **data analysis and data science** following an established professional career grounded in complex analytical work.
 
